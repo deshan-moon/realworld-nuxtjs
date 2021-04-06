@@ -1,3 +1,4 @@
+# 带版本的提交才会触发自动化部署
 name: Publish And Deploy Demo
 on:
   push:
